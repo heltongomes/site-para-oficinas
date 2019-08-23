@@ -9,25 +9,24 @@
 
 # site settings
 title: go-go gh-pages!
-description: "Learn about GitHub pages and Jekyll."
+description: "Aprendendo sobre GitHub pages com a ferramenta Jekyll."
 keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
 
 # author settings for cc-by
-author: evan will
-pub_year: 2018
-github_username: evanwill
-
+author: Danny Tonidandel
+pub_year: 2019
+github_username: tonidandel
 # add the full url for the github repository
-repo: "https://github.com/evanwill/go-go-ghpages"
+#repo: "https://github.com/evanwill/go-go-ghpages"
 
 # urls
 # your gh-pages url: https://username.github.io
-url: https://evanwill.github.io
+#url: https://evanwill.github.io
 # your repository name: /repository
-baseurl: /go-go-ghpages
+#baseurl: /go-go-ghpages
 
 # analytics if desired (and use environment variable on build command)
-google_analytics: UA-74844011-1
+#google_analytics: UA-74844011-1
 
 # defaults (to simplify front matter)
 defaults:
