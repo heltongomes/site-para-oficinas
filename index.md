@@ -2,12 +2,7 @@
 title: Home
 ---
 
-<div> 
-    <img src="{{ '/images/octocat.jpg' | absolute_url }}" alt="github octocat" style="width:45%;" >
-    <img src="{{ '/images/jekyll.png' | absolute_url }}" alt="jekyll icon" style="width:45%;" >
-</div>
-
-# Build a Website with Jekyll and GitHub Pages 
+# Um site feito com Jekyll e GitHub Pages começa aqui 
 
 With [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) you can quickly create and publish a website for free! 
 It is an ideal solution for creating a simple project or personal site to highlight your academic work. 
@@ -33,6 +28,6 @@ Hosted at [University of Idaho Library](http://www.lib.uidaho.edu/){:target="_bl
 
 > built using [Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/), and [workshop-template](https://github.com/evanwill/workshop-template).
 >
-> licensed cc-by-sa <a href="https://github.com/evanwill">evan will</a> {{ site.pub_year }}. (get [source code]({{ site.repo }}))
+> licensed cc-by-sa <a href="https://github.com/tonidandel">Danny Tonidandel</a> {{ site.pub_year }}. (get [source code]({{ site.repo }}))
 > 
 > <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
