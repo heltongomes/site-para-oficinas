@@ -21,9 +21,9 @@ github_username: tonidandel
 
 # urls
 # your gh-pages url: https://username.github.io
-url: https://tonidandel.github.io/
+#url: https://tonidandel.github.io/
 # your repository name: /ghpages-test-site
-baseurl: /ghpages-test-site
+#baseurl: /ghpages-test-site
 
 # analytics if desired (and use environment variable on build command)
 #google_analytics: UA-74844011-1
