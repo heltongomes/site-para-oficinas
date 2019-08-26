@@ -1,5 +1,18 @@
-# Um site teste feito com com gh-pages 2019
+# go-go-ghpages
 
-Acesse pelo link: https://tonidandel.github.io/telegrafo/
+An intro workshop about GitHub Pages and Jekyll. 
 
-> licença [cc-by-sa](https://creativecommons.org/licenses/by-sa/4.0/) <a href="https://github.com/tonidandel">Danny Tonidandel</a> 2019, adaptado a partir de <a href="https://github.com/evanwill">Evan Will</a> 2018.
+https://evanwill.github.io/go-go-ghpages/
+
+# Build a Website with Jekyll and GitHub Pages 
+
+With [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) you can quickly create and publish a website for free! 
+It is an ideal solution for creating a simple project or personal site to highlight your academic work. 
+
+This workshop will introduce the basics of using the popular static website generator Jekyll integrated with GitHub pages. 
+You will learn how to set up a project repository, write content in Markdown, and publish your site, all using GitHub's user friendly web interface. 
+Advanced usage of Jekyll for local web development is introduced final section.
+
+### Hosted at [University of Idaho Library](http://www.lib.uidaho.edu/) April 2017, Oct 2018
+
+> licensed [cc-by-sa](https://creativecommons.org/licenses/by-sa/4.0/) <a href="https://github.com/evanwill">evan will</a> 2018
