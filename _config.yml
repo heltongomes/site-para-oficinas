@@ -17,14 +17,13 @@ author: Danny Tonidandel
 pub_year: 2019
 github_username: tonidandel
 # add the full url for the github repository
-#repo: "https://github.com/evanwill/go-go-ghpages"
+repo: "https://github.com/tonidandel/telegrafo/"
 
 # urls
 # your gh-pages url: https://username.github.io
-#url: https://tonidandel.github.io/
+url: https://tonidandel.github.io/
 # your repository name: /ghpages-test-site
-#baseurl: /ghpages-test-site
-
+baseurl: /telegrafo
 # analytics if desired (and use environment variable on build command)
 #google_analytics: UA-74844011-1
 
@@ -37,5 +36,3 @@ defaults:
 
 # Build settings
 markdown: kramdown
-
-theme: jekyll-theme-leap-day
