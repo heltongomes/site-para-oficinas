@@ -8,9 +8,9 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # site settings
-title: go-go gh-pages!
+title: O Telégrafo ---...---
 description: "Aprendendo sobre GitHub pages com a ferramenta Jekyll."
-keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
+keywords: "github, github-pages, websites, static gen, hosting, markdown, gh-pages"
 
 # author settings for cc-by
 author: Danny Tonidandel
