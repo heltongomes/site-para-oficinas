@@ -7,6 +7,15 @@ title: Home
     <img src="{{ '/images/jekyll.png' | absolute_url }}" alt="jekyll icon" style="width:45%;" >
 </div>
 
+# Teste home
+
+Coluna 1 | Coluna 2
+----------- | -----------
+<img src="{{ '/images/octocat.jpg' | absolute_url }}" alt="github octocat" style="width:45%;" > | texto linha 1 x coluna 2
+texto linha 2 x coluna 1 | <img src="{{ '/images/jekyll.png' | absolute_url }}" alt="jekyll icon" style="width:45%;" >
+
+
+
 # Build a Website with Jekyll and GitHub Pages 
 
 With [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) you can quickly create and publish a website for free! 
