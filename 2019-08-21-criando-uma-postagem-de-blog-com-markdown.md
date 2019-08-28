@@ -1,6 +1,6 @@
 ---
 nav: true
-title: 3 - Markdown
+title: 1 - Markdown
 ---
 # O início
 A primeira coisa que vamos explorar é a linguagem Markdown.
