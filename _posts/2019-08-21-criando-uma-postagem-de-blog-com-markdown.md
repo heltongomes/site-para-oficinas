@@ -1,5 +1,6 @@
 ---
 layout: post
+nav: true
 title: Escrevendo uma postagem com Markdown
 ---
 # O início
