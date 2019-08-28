@@ -1,7 +1,6 @@
 ---
-layout: post
 nav: true
-title: Escrevendo uma postagem com Markdown
+title: Markdown
 ---
 # O início
 A primeira coisa que vamos explorar é a linguagem Markdown.
