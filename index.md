@@ -3,16 +3,15 @@ title: Home
 ---
 
 <div> 
-    <img src="{{ '/images/octocat.jpg' | absolute_url }}" alt="github octocat" style="width:45%;" >
-    <img src="{{ '/images/jekyll.png' | absolute_url }}" alt="jekyll icon" style="width:45%;" >
+    {% include figure.html file="descartes-dioptrica-p460.svg" alt="descartes" width="40%" %}
 </div>
 
 # Um primeiro teste
 
 Coluna 1 | Coluna 2 | Coluna 3
 ----------- | ----------- | ----------- 
-{% include figure.html file="descartes-dioptrica-p460.svg" alt="descartes" width="30%" %} | texto linha 1 x coluna 3 [Reference page]({{ "/5-reference.html" | absolute_url }}) | <img src="{{ '/images/jekyll.png' | absolute_url }}" alt="jekyll icon" style="width:45%;" >
-teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste  | teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste 
+<img src="{{ '/images/descartes-dioptrica-p460.svg' | absolute_url }}" alt="Descartes" style="width:45%;" > | texto linha 1 x coluna 3 [Reference page]({{ "/5-reference.html" | absolute_url }}) | <img src="{{ '/images/jekyll.png' | absolute_url }}" alt="jekyll icon" style="width:45%;" >
+teste teste teste teste teste teste tteste teste teste  | teste teste teste teste teste teste teste teste teste teste 
 teste | teste
 
 
