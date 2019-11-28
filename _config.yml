@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # site settings
-title: O Telégrafo ---...---
+title: Template Site para Oficinas
 description: "Aprendendo sobre GitHub pages com a ferramenta Jekyll."
 keywords: "github, github-pages, websites, static gen, hosting, markdown, gh-pages"
 
@@ -17,13 +17,13 @@ author: Danny Tonidandel
 pub_year: 2019
 github_username: tonidandel
 # add the full url for the github repository
-repo: "https://github.com/tonidandel/telegrafo/"
+repo: "https://github.com/tonidandel/site-para-oficinas/"
 
 # urls
 # your gh-pages url: https://username.github.io
 url: https://tonidandel.github.io/
 # your repository name: /ghpages-test-site
-baseurl: /telegrafo
+baseurl: /site-para-oficinas
 # analytics if desired (and use environment variable on build command)
 #google_analytics: UA-74844011-1
 
