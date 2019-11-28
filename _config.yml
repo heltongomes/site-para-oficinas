@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # site settings
-title: Template Site para Oficinas
+title: Template site para oficinas
 description: "Aprendendo sobre GitHub pages com a ferramenta Jekyll."
 keywords: "github, github-pages, websites, static gen, hosting, markdown, gh-pages"
 
