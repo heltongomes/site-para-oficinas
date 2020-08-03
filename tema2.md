@@ -15,8 +15,8 @@ ou ### Subsubtítulo.
 ### Entatizar um texto
 Por exemplo, é muito simples escrever em **negrito** utilizando a palavra 
 entre "****" ou *itálico*, com "**". Ou até criar um link utilizando colchetes,
-como a [minha página institucional](http://professor.ufop.br/tonidandel). 
-Se necessário, é poossível fazer uma citação com >. Por exemplo
+como a [minha página institucional](http://professor.ufop.br/tonidandel), que é gerada pelo código `[minha página institucional](http://professor.ufop.br/tonidandel)`. 
+Se necessário, é poossível fazer uma citação com >. Por exemplo, se fizermos `>Mundo Mundo vasto mundo...`, é gerada a marcação:
 
 >Mundo Mundo vasto mundo...
 
@@ -24,6 +24,12 @@ Ou até uma nota de rodapé,[^1] utilizando o comando `[^1]`,
 e depois `[^1]: texto da nota` 
 
 [^1]: A nota é essa aqui ó.
+
+Essa nota foi gerada com o código:
+	Ou até uma nota de rodapé,[^1] utilizando o comando `[^1]`,
+	e depois `[^1]: texto da nota` 
+	[^1]: A nota é essa aqui ó.
+
 ### Criando listas
 Podemos também criar listas com `*` e listas ordenadas com `1.`, tais como: 
 
