@@ -20,12 +20,11 @@ Se necessário, é poossível fazer uma citação com >. Por exemplo, se fizermo
 
 >Mundo Mundo vasto mundo...
 
-Ou até uma nota de rodapé,[^1] utilizando o comando `[^1]`,
-e depois `[^1]: texto da nota` 
-
+Ou até uma nota de rodapé,[^1] utilizando o comando `[^1]`, e depois `[^1]: texto da nota` 
 [^1]: A nota é essa aqui ó.
 
 Essa nota foi gerada com o código:
+
 	Ou até uma nota de rodapé,[^1] utilizando o comando `[^1]`,
 	e depois `[^1]: texto da nota` 
 	[^1]: A nota é essa aqui ó.
