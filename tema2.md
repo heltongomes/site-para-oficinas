@@ -100,6 +100,7 @@ com a extensão `.md`, e salvá-la na pasta `_posts`, no formato:
 ## Publicando
 Para atualizar o servidor jekyll, basta fornecer os comandos, em um terminal 
 Linux:
+
 	$ jekyll build
 	$ jekyll serve
 
